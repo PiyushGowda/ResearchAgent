@@ -1,0 +1,8 @@
+{
+  "name": "PaperArchitect - CS Research & Project Agent",
+  "description": "Advanced CS research engine that parses academic papers, deconstructs system architectures into interactive Mermaid diagrams, and generates high-impact portfolio project extensions for CS students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
